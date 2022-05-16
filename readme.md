@@ -8,7 +8,7 @@ Estudos utilizando o Docker + PostgreSQL
 ### COMANDOS DOCKER 
 
 ```
-1º - 
+1º - Iniciar docker: docker-compose up -d
 2º - 
 3º -
 ```
@@ -16,8 +16,8 @@ Estudos utilizando o Docker + PostgreSQL
 ### COMANDOS POSTGRESQL
 
 ```
-1º - Iniciar docker: docker-compose up
-2º - Url: http://app.localhost/
+1º - 
+2º - 
 3º -
 ```
 
