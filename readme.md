@@ -45,11 +45,5 @@ C --> K[PgAdmin]
     <p><b><code>Docker PostgreSQL & PgAdmin</code></b></p>
     <p><i>URL: https://www.youtube.com/watch?v=qrnQFzuAHTw </i></p>
   </li> 
-  
-  <li>
-    <p><b><code>1.3 - [] </code></b></p>
-    <p><i>URL:</i></p>
-  </li>
-  
 </ul>
 
