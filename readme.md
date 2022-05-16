@@ -1,8 +1,8 @@
 # Sobre o Projeto:
-Estudos utilizando o Docker + PHP
+Estudos utilizando o Docker + PostgreSQL
 
-- Nginx
-- Docker Compose
+- Docker
+- PostgreSQL
 
 
 ### COMANDOS DOCKER FILE
@@ -35,8 +35,6 @@ C --> L[API]
 ```
 
 ### FONTE:
-Ambiente de desenvolvimento Docker - Github: (url: https://github.com/marcossaore/ambiente-dev-docker)
-Ambiente de desenvolvimento Docker - Medium: (url: https://medium.com/4yousee/infraestrutura-em-ambiente-de-desenvolvimento-com-docker-parte-1-eb28507d5eca)
 
 
 ### 1.0 - CICLO DE VIDA
