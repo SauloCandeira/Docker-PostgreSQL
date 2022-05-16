@@ -29,7 +29,7 @@ flowchart LR
 B[Docker]
 
 B --> C{Conteiners}
-C --> J[Front-End]
+C --> J[PostgreSQL]
 C --> K[Database]
 C --> L[API]
 ```
