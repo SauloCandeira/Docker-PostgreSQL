@@ -35,10 +35,6 @@ C --> L[API]
 ```
 
 ### FONTE:
-
-
-### 1.0 - CICLO DE VIDA
-
 <ul>
   
   <li>
