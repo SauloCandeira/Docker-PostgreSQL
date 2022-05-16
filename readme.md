@@ -5,7 +5,7 @@ Estudos utilizando o Docker + PostgreSQL
 - PostgreSQL
 
 
-### COMANDOS DOCKER FILE
+### COMANDOS DOCKER 
 
 ```
 1º - 
@@ -13,7 +13,7 @@ Estudos utilizando o Docker + PostgreSQL
 3º -
 ```
 
-### COMANDOS DOCKER COMPOSE
+### COMANDOS POSTGRESQL
 
 ```
 1º - Iniciar docker: docker-compose up
