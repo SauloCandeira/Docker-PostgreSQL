@@ -30,7 +30,7 @@ B[Docker]
 
 B --> C{Conteiners}
 C --> J[PostgreSQL]
-C --> K[Database]
+C --> K[PgAdmin]
 C --> L[API]
 ```
 
