@@ -37,8 +37,8 @@ C --> K[PgAdmin]
 <ul>
   
   <li>
-    <p><b><code>1.1 - [] </code></b></p>
-    <p><i>URL:</i></p>
+    <p><b><code>POSTGRESQL & DOCKER</code></b></p>
+    <p><i>URL: https://www.youtube.com/watch?v=JbFHbVAp-VM&t=0s </i></p>
   </li>
   
   <li>
