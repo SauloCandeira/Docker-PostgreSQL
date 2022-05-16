@@ -38,17 +38,17 @@ C --> K[PgAdmin]
   
   <li>
     <p><b><code>1.1 - [] </code></b></p>
-    <p><i> Instrução:  </i></p>
+    <p><i>URL:</i></p>
   </li>
   
   <li>
     <p><b><code>1.2 - [] </code></b></p>
-    <p><i> Fase-1:  </i></p>
+    <p><i>URL:</i></p>
   </li> 
   
   <li>
     <p><b><code>1.3 - [] </code></b></p>
-    <p><i>  </i></p>
+    <p><i>URL:</i></p>
   </li>
   
 </ul>
